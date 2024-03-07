@@ -6,5 +6,6 @@ public class firstinput {
         String input=sc.nextLine();
         System.out.println("Hello " +input);
         System.out.println("Good morning!!");
+        System.out.println("How do you feel today!!");
     }
 }
