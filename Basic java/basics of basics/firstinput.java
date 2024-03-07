@@ -5,5 +5,6 @@ public class firstinput {
         System.out.println("Enter your name: ");
         String input=sc.nextLine();
         System.out.println("Hello " +input);
+        System.out.println("Good morning!!");
     }
 }
